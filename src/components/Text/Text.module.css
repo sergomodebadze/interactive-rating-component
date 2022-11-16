@@ -1,0 +1,18 @@
+.mainDiv {
+    justify-content: center;
+    text-align: center;
+}
+.thanks {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 35px;
+    font-family: 'Overpass';
+    color: #FFFFFF;
+}
+.text {
+    font-family: 'Overpass';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #969FAD;
+}

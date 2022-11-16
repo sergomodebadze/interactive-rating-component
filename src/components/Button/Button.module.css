@@ -1,0 +1,20 @@
+.button {
+  background: #FC7614;
+  border-radius: 22.5px;
+  Width:341px;
+  Height: 45px;
+  border: none;
+  color: white;
+  font-family: 'Overpass';
+  font-size: 15px;
+  transition: .3s ease;
+}
+.buttonDiv {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+}
+.button:hover {
+  color: #FC7614;
+  background-color: white;
+}
