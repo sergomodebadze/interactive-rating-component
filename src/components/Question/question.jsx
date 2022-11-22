@@ -9,7 +9,7 @@ function Question () {
                 </p>
             </div>
             <div className={Style.textDiv}>
-                <p className={Style.text}>Plqase let us know how we did with your support request. All feedback is appreciated to help us improve offering!</p>
+                <p className={Style.text}>Please let us know how we did with your support request. All feedback is appreciated to help us improve offering!</p>
             </div>
         </div>
             
